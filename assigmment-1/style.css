@@ -1,0 +1,66 @@
+body {}
+
+.blue {
+    color: rgb(79, 79, 172) !important;
+}
+
+a {
+    text-decoration: none;
+    color: blue !important;
+}
+
+i {}
+
+.font {
+    font-weight: 900;
+}
+
+.hello {
+    background-color: #644F9C;
+    color: white;
+
+}
+
+h5 {
+    color: #FF6F00;
+}
+
+.btn-format:hover {
+    color: #ffffff;
+    background-color: #FF6F00;
+}
+
+.btn-format:active {
+    background-color: #FF6F00;
+}
+
+#format-pragraph {
+    margin-top: 5px;
+    width: 75%;
+}
+
+.title {
+    background-color: #644F9C;
+}
+
+#title-1 {
+    border: 1px dashed white;
+    background-color: #644F9C !important;
+    color: #F2F2F2;
+}
+
+#title-2 {
+    background-color: #F2F2F2;
+    color: #644F9C;
+}
+
+#title-3 {
+    background-color: #FF6F00;
+    color: #F2F2F2;
+}
+
+.footer {
+    padding: 20px;
+
+
+}
